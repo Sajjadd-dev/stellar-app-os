@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1711-implement-blockchain-based-tree-ownership",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1711-implement-blockchain-based-tree-ownership": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1711-implement-blockchain-based-tree-ownership",
+    "origin"
+  ]
+}
